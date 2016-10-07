@@ -96,7 +96,6 @@
   },
   "bundledDependencies": [
     "cli-table",
-    "colors",
     "cross-spawn-async",
     "expand-tilde",
     "form-data",
